@@ -1,0 +1,13 @@
+body {
+    background: rgb(9,47,121);
+}
+
+/* Navbar */
+
+.nav > a{
+
+    color:honeydew;
+    font-size:20px;
+}
+
+
